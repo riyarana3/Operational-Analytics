@@ -74,3 +74,21 @@ This project demonstrates practical application of Excel and Power BI for operat
 
 ![Production Analytics](Screenshots/02-Production-Analytics.png)
 
+## 8. Power BI Dashboard
+
+The interactive Power BI dashboard is included in this repository.
+
+**Dashboard File:** [Operational and Production Analytics Dashboard.pbix](<Operational and Production Analytics Dashboard.pbix>)
+
+To explore the dashboard:
+1. Download the `.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Explore the Executive Dashboard and Production Analytics pages.
+
+## 9. Project Repository
+
+This repository contains:
+- Power BI dashboard
+- Dashboard screenshots
+- Project documentation
+- README project overview
