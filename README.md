@@ -68,9 +68,9 @@ This project demonstrates practical application of Excel and Power BI for operat
 
 ### 1. Executive Dashboard
 
-![Executive Dashboard](01-Executive-Dashboard.png)
+![Executive Dashboard](Screenshots/01-Executive-Dashboard.png)
 
 ### 2. Production Analytics
 
-![Production Analytics](02-Production-Analytics.png)
+![Production Analytics](Screenshots/02-Production-Analytics.png)
 
