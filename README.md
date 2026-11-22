@@ -1,22 +1,22 @@
-Operational & Production Analytics Dashboard
+# Operational & Production Analytics Dashboard
 
-Project Overview
+## Project Overview
 
 This project focuses on analysing manufacturing operations and production performance using Microsoft Excel and Power BI.
 
 The objective is to organise operational data, analyse performance indicators and present meaningful insights through interactive dashboards.
 
-Project Type: Academic / Portfolio Project  
-Dataset: Practice Dataset
+**Project Type:** Academic / Portfolio Project  
+**Dataset:** Practice Dataset
 
-Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 
-Project Components
+## Project Components
 
 The project covers the following operational areas:
 
@@ -26,7 +26,7 @@ The project covers the following operational areas:
 4. Quality Analysis
 5. Dispatch Analysis
 
-Project Workflow
+## Project Workflow
 
 1. Data preparation using Excel
 2. Data cleaning and transformation
@@ -35,17 +35,17 @@ Project Workflow
 5. Development of interactive dashboards
 6. Analysis of operational performance
 
-Dashboard Overview
+## Dashboard Overview
 
-Page 1 – Executive Dashboard
+### Page 1 – Executive Dashboard
 
 Provides an overview of operational performance through key performance indicators and visual representations.
 
-Page 2 – Production Analytics
+### Page 2 – Production Analytics
 
 Focuses on production performance, trends and comparisons to support operational analysis.
 
-Key Learning Outcomes
+## Key Learning Outcomes
 
 - Understanding operational datasets
 - Data cleaning and transformation
@@ -55,14 +55,14 @@ Key Learning Outcomes
 - Dashboard design and visualisation
 - Analytical and business problem-solving skills
 
-Project Purpose
+## Project Purpose
 
 This project demonstrates practical application of Excel and Power BI for operational and production analytics.
 
-Note: This is an independent practice project. The dataset is intended for learning and portfolio demonstration and should not be interpreted as verified company operational data.
+**Note:** This is an independent practice project. The dataset is intended for learning and portfolio demonstration and should not be interpreted as verified company operational data.
 
 
-Project Domain: Business Intelligence & Operational Analytics
+**Project Domain:** Business Intelligence & Operational Analytics
 
 ## Dashboard Preview
 
