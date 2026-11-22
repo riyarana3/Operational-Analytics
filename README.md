@@ -1,0 +1,65 @@
+Operational & Production Analytics Dashboard
+
+Project Overview
+
+This project focuses on analysing manufacturing operations and production performance using Microsoft Excel and Power BI.
+
+The objective is to organise operational data, analyse performance indicators and present meaningful insights through interactive dashboards.
+
+Project Type: Academic / Portfolio Project  
+Dataset: Practice Dataset
+
+Tools & Technologies
+
+- Microsoft Excel
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+
+Project Components
+
+The project covers the following operational areas:
+
+1. Production Analysis
+2. Machine Performance Analysis
+3. Inventory Analysis
+4. Quality Analysis
+5. Dispatch Analysis
+
+Project Workflow
+
+1. Data preparation using Excel
+2. Data cleaning and transformation
+3. Data modelling in Power BI
+4. Creation of calculated measures using DAX
+5. Development of interactive dashboards
+6. Analysis of operational performance
+
+Dashboard Overview
+
+Page 1 – Executive Dashboard
+
+Provides an overview of operational performance through key performance indicators and visual representations.
+
+Page 2 – Production Analytics
+
+Focuses on production performance, trends and comparisons to support operational analysis.
+
+Key Learning Outcomes
+
+- Understanding operational datasets
+- Data cleaning and transformation
+- Data modelling
+- DAX calculations
+- KPI development
+- Dashboard design and visualisation
+- Analytical and business problem-solving skills
+
+Project Purpose
+
+This project demonstrates practical application of Excel and Power BI for operational and production analytics.
+
+Note: This is an independent practice project. The dataset is intended for learning and portfolio demonstration and should not be interpreted as verified company operational data.
+
+
+Project Domain: Business Intelligence & Operational Analytics
